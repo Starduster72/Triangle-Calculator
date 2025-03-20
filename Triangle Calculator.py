@@ -2,7 +2,7 @@ import math
 import decimal
 from decimal import Decimal
 
-print('Triangle Calculator v0.7.5')
+print('Triangle Calculator v1.0.0')
 
 def standard_mode():
     print('Standard Mode')
